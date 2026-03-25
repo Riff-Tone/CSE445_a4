@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Riff-Tone/CSE445_a4/main/NationalParks.xsd">
+
+	<!--info from the ministry of the enviroment from japan	-->
+	<!--https://www.env.go.jp/en/nature/nps/park/office.html-->
+	
+	
+	
+	<NationalPark Rating="4.8">
+		<Name>Fuji-Hakone-Izu National Park</Name>
+		<Phone>0460-84-8727</Phone>
+		<Address NearestAirport="HND">
+			<Number>164</Number>
+			<Street>Kyufudaba, Motohakone</Street>
+			<City>Hakone</City>
+			<State>Kanagawa</State>
+			<Zip>2500522</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Nikko National Park</Name>
+		<Phone>0288-54-1076</Phone>
+		<Address NearestAirport="NRT">
+			<Number>9-5</Number>
+			<Street>Honcho</Street>
+			<City>Nikko</City>
+			<State>Tochigi</State>
+			<Zip>3211434</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Daisetsuzan National Park</Name>
+		<Phone>01658-2-2574</Phone>
+		<Address NearestAirport="AKJ">
+			<Number>603</Number>
+			<Street>Chuo-cho</Street>
+			<City>Kamikawa</City>
+			<State>Hokkaido</State>
+			<Zip>781741</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Shiretoko National Park</Name>
+		<Phone>0152-24-2297</Phone>
+		<Phone>0153-87-2402</Phone>
+		<Address NearestAirport="MMB">
+			<Number>186-10</Number>
+			<Street>Utoro Nishi</Street>
+			<City>Shari</City>
+			<State>Hokkaido</State>
+			<Zip>994354</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Yakushima National Park</Name>
+		<Phone>0997-46-2992</Phone>
+		<Address NearestAirport="KUM">
+			<Number>2739-343</Number>
+			<Street>Anbomaetake</Street>
+			<City>Yakushima</City>
+			<State>Kagoshima</State>
+			<Zip>8914311</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Aso-Kuju National Park</Name>
+		<Phone>0967-34-0254</Phone>
+		<Phone>0973-79-2631</Phone>
+		<Address NearestAirport="KMJ">
+			<Number>1180</Number>
+			<Street>Kurokawa</Street>
+			<City>Aso</City>
+			<State>Kumamoto</State>
+			<Zip>8692225</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Chubusangaku National Park</Name>
+		<Phone>0263-94-2024</Phone>
+		<Phone>0263-95-2032</Phone>
+		<Address NearestAirport="MMJ">
+			<Number>124-7</Number>
+			<Street>Azumi</Street>
+			<City>Matsumoto</City>
+			<State>Nagano</State>
+			<Zip>3901501</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Ogasawara National Park</Name>
+		<Phone>04998-2-7174</Phone>
+		<Phone>04998-3-2577</Phone>
+		<Address NearestAirport="HND">
+			<Number>0</Number>
+			<Street>Nishimachi, Chichijima</Street>
+			<City>Ogasawara</City>
+			<State>Tokyo</State>
+			<Zip>1002101</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Akan-Mashu National Park</Name>
+		<Phone>0154-67-2624</Phone>
+		<Phone>015-483-2335</Phone>
+		<Address NearestAirport="KUH">
+			<Number>1-1-1</Number>
+			<Street>Akanko Onsen</Street>
+			<City>Kushiro</City>
+			<State>Hokkaido</State>
+			<Zip>850467</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Keramashoto National Park</Name>
+		<Phone>098-987-2662</Phone>
+		<Address NearestAirport="OKA">
+			<Number>109</Number>
+			<Street>Zamami</Street>
+			<City>Zamami</City>
+			<State>Okinawa</State>
+			<Zip>9013402</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
