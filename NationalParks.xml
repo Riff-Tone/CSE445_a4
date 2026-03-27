@@ -20,7 +20,7 @@
 	  </Address>
 	</NationalPark>
 	
-	<NationalPark Rating="4.8">
+	<NationalPark>
 		<Name>Fuji-Hakone-Izu National Park</Name>
 		<Phone>0460-84-8727</Phone>
 		<Address NearestAirport="HND">
@@ -32,7 +32,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark>
 		<Name>Nikko National Park</Name>
 		<Phone>0288-54-1076</Phone>
 		<Address NearestAirport="NRT">
@@ -44,7 +44,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.9">
+	<NationalPark>
 		<Name>Daisetsuzan National Park</Name>
 		<Phone>01658-2-2574</Phone>
 		<Address NearestAirport="AKJ">
@@ -56,7 +56,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.8">
+	<NationalPark>
 		<Name>Shiretoko National Park</Name>
 		<Phone>0152-24-2297</Phone>
 		<Phone>0153-87-2402</Phone>
