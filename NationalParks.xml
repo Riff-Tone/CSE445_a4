@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Riff-Tone/CSE445_a4/main/NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 
 	<!--info from the ministry of the enviroment from japan	-->
 	<!--https://www.env.go.jp/en/nature/nps/park/office.html-->
