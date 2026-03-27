@@ -144,6 +144,18 @@
 			<Zip>9013402</Zip>
 		</Address>
 	</NationalPark>
-	
+
+	<NationalPark Rating="4.6">
+	  <Name>Towada-Hachimantai National Park</Name>
+	  <Phone>0176-75-2728</Phone>
+	  <Phone>0186-31-2714</Phone>
+	  <Address NearestAirport="AOJ">
+	    <Number>1</Number>
+	    <Street>Okuse Towadako</Street>
+	    <City>Towada</City>
+	    <State>Aomori</State>
+	    <Zip>0340301</Zip>
+	  </Address>
+	</NationalPark>
 	
 </NationalParks>
