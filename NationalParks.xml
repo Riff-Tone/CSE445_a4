@@ -7,7 +7,7 @@
 	
 	
 	
-	<NationalPark Rating="4.8">
+	<NationalPark>
 		<Name>Fuji-Hakone-Izu National Park</Name>
 		<Phone>0460-84-8727</Phone>
 		<Address NearestAirport="HND">
@@ -43,7 +43,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.8">
+	<NationalPark>
 		<Name>Shiretoko National Park</Name>
 		<Phone>0152-24-2297</Phone>
 		<Phone>0153-87-2402</Phone>
@@ -68,7 +68,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark>
 		<Name>Aso-Kuju National Park</Name>
 		<Phone>0967-34-0254</Phone>
 		<Phone>0973-79-2631</Phone>
@@ -107,7 +107,7 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark>
 		<Name>Akan-Mashu National Park</Name>
 		<Phone>0154-67-2624</Phone>
 		<Phone>015-483-2335</Phone>
