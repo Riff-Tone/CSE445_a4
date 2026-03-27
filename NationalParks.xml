@@ -36,7 +36,7 @@
 		<Name>Nikko National Park</Name>
 		<Phone>0288-54-1076</Phone>
 		<Address NearestAirport="NRT">
-			<Number>9-5</Number>
+			<Number>9</Number>
 			<Street>Honcho</Street>
 			<City>Nikko</City>
 			<State>Tochigi</State>
@@ -61,7 +61,7 @@
 		<Phone>0152-24-2297</Phone>
 		<Phone>0153-87-2402</Phone>
 		<Address NearestAirport="MMB">
-			<Number>186-10</Number>
+			<Number>186</Number>
 			<Street>Utoro Nishi</Street>
 			<City>Shari</City>
 			<State>Hokkaido</State>
@@ -73,7 +73,7 @@
 		<Name>Yakushima National Park</Name>
 		<Phone>0997-46-2992</Phone>
 		<Address NearestAirport="KUM">
-			<Number>2739-343</Number>
+			<Number>2739</Number>
 			<Street>Anbomaetake</Street>
 			<City>Yakushima</City>
 			<State>Kagoshima</State>
@@ -99,7 +99,7 @@
 		<Phone>0263-94-2024</Phone>
 		<Phone>0263-95-2032</Phone>
 		<Address NearestAirport="MMJ">
-			<Number>124-7</Number>
+			<Number>124</Number>
 			<Street>Azumi</Street>
 			<City>Matsumoto</City>
 			<State>Nagano</State>
@@ -125,7 +125,7 @@
 		<Phone>0154-67-2624</Phone>
 		<Phone>015-483-2335</Phone>
 		<Address NearestAirport="KUH">
-			<Number>1-1-1</Number>
+			<Number>1</Number>
 			<Street>Akanko Onsen</Street>
 			<City>Kushiro</City>
 			<State>Hokkaido</State>
